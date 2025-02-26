@@ -2,6 +2,4 @@
 
 **Descrição:**
 
-Códigos que desenvolvi durante minhas aulas de microinformática na faculdado utilizando a linguagem `C#` juntamente ao framework `Windows Forms`, aqui você encontrará todas as aulas que tive durante o semestre.
-
-
+Repositório com os códigos que desenvolvi durante as aulas utilizando a linguagem `C#` na disciplina de Microinformática que cursei no 1° Semestre da faculdade de Anásile e Desenvolvimento de Sistemas.
